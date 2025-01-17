@@ -1,0 +1,18 @@
+[
+    {
+        "id": "678aa262e365e",
+        "product_name": "Fruit 2",
+        "quantity": "10",
+        "price": "60",
+        "total_value": 600,
+        "created_at": "2025-01-17T18:33:06+00:00"
+    },
+    {
+        "id": "678aa5da230ae",
+        "product_name": "Fruit 1",
+        "quantity": "9",
+        "price": "80",
+        "total_value": 720,
+        "created_at": "2025-01-17T18:47:54+00:00"
+    }
+]
